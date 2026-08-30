@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **0** | 0 | 0 | 0 | `2026-08-30` |
+| **1** | 1 | 0 | 0 | `2026-08-30` |
 
 ---
 
@@ -14,7 +14,7 @@
 
 | # | Title | Solution(s) | Difficulty | Category |
 | :---: | :--- | :---: | :---: | :--- |
-| - | No problems synced yet | - | - | - |
+| 0001 | [Pattern 1](./DSA/General/pattern-1) | [JAVA](./DSA/General/pattern-1/solution.java) | 🟢 Easy | `DSA` |
 
 ---
 
