@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **2** | 2 | 0 | 0 | `2026-08-30` |
+| **3** | 3 | 0 | 0 | `2026-08-31` |
 
 ---
 
@@ -16,6 +16,7 @@
 | :---: | :--- | :---: | :---: | :--- |
 | 0001 | [Pattern 1](./DSA/General/pattern-1) | [JAVA](./DSA/General/pattern-1/solution.java) | 🟢 Easy | `DSA` |
 | 0002 | [Pattern 2](./DSA/General/pattern-2) | [JAVA](./DSA/General/pattern-2/solution.java) | 🟢 Easy | `DSA` |
+| 0003 | [Pattern 3](./DSA/General/pattern-3) | [JAVA](./DSA/General/pattern-3/solution.java) | 🟢 Easy | `DSA` |
 
 ---
 
